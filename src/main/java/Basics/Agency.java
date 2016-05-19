@@ -73,5 +73,9 @@ private    String agency_phone;
  
     public void AddL(Agency object) {
     List.add(object);
+    }
+    public Agency(){
+        
+    }
  
-}}
+}
